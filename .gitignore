@@ -1,0 +1,6 @@
+# Ignore chromedriver executable
+chromedriver.exe
+msedgedriver.exe
+LICENSE.chromedriver
+# Ignore virtual environment folder
+.venv/
